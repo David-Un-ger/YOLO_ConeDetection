@@ -12,7 +12,9 @@ This code was created by David Unger and Nick Wagner for the Deep Learning Lab a
 # How to run the code
 
 ## Training
-Download the traffic cone dataset:<br />
+Download the traffic cone dataset:
+
+The dataset is not open source, why I am not allowed to provide it. <br />
 
 ```
 gdown https://drive.google.com/uc?id=___
